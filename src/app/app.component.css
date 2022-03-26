@@ -1,0 +1,33 @@
+div {
+  text-align: center;
+}
+
+h1,
+h2,
+li {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: purple;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  margin-top: 1em;
+  margin-left: 1em;
+  background-color: purple;
+  color: white;
+  padding: 0.5em;
+}
+
+button:hover {
+  background-color: blue;
+}
+
+input {
+  padding: 0.5em;
+}
